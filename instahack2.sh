@@ -28,9 +28,9 @@ read -p "[+]=>" instahack
 if [ "$instahack" = "1" ];then
 clear
 figlet Instahack2
-echo "\033[1;32m\n\n[+]=>DIGITE OU COLE O NOME DA VÍTIMA exe:(pedro1234)"
+echo "\033[1;32m\n\n[+]=>vanessapedroso_"
 #
-read -p "[+]=>" vitima
+read -p "[+]=>" vanessapedroso_
 #
 #Iniciando o ataque
 clear
